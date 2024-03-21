@@ -1,3 +1,9 @@
+<div align="center"> 
+
+#### :pencil2: Study log
+ 
+  <br/>
+
 <p><a href="https://solved.ac/nicehcy2">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicehcy2" alt="Solved.ac프로필">
 </a></p>

@@ -6,7 +6,6 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicehcy2" alt="Solved.ac프로필">
 </a></p>
 
-
 <!--
 **nicehcy2/nicehcy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

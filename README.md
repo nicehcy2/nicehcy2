@@ -56,7 +56,10 @@
 </div><br>
 </div>
 
-## :pencil2: Study log
-<p><a href="https://solved.ac/nicehcy2">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicehcy2" alt="Solved.ac프로필">
-</a></p>
+<p>
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=nicehcy2&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=nicehcy2&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicehcy2)](https://solved.ac/nicehcy2)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=nicehcy2&theme=dark)

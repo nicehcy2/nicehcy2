@@ -21,19 +21,19 @@
     </div>
 </div>
 
-## Projects
-- **[AI를 활용한 Road Damage 탐지 및 모니터링 시스템]** - SpringBoot, React, YOLO, PostgreSQL, AWS [바로가기](https://github.com/nicehcy2/Pothole-Detection-API-Server) [바로가기](https://github.com/nicehcy2/YOLOv8-Pothole-Detection-Server)
-- **[0끌: 메신저 기반 무지출 챌린지 어플]** - SpringBoot, RabbitMQ, Redis, Kafka, MYSQL, AWS [바로가기](https://github.com/nicehcy2/yeongkkuel-server)
-- **[WE-SAVE]** - SpringBoot, MySQL [바로가기](https://github.com/nicehcy2/WE-SAVE-BE)
-- **[Nior Near]** - SpringBoot, MySQL [바로가기](https://github.com/Nior-Near/BE)
-- **[또또가(리뷰어와 상점을 연결하는 중계 서비스)]** - SpringBoot, MySQL [바로가기](https://github.com/Ttottoga/BE)
+## 🚀 Projects
+- **[AI를 활용한 Road Damage 탐지 및 모니터링 시스템]** - SpringBoot, React, YOLO, PostgreSQL, AWS [(바로가기)](https://github.com/nicehcy2/Pothole-Detection-API-Server) [(바로가기)](https://github.com/nicehcy2/YOLOv8-Pothole-Detection-Server)
+- **[0끌: 메신저 기반 무지출 챌린지 어플]** - SpringBoot, RabbitMQ, Redis, Kafka, MYSQL, AWS [(바로가기)](https://github.com/nicehcy2/yeongkkuel-server)
+- **[WE-SAVE]** - SpringBoot, MySQL [(바로가기)](https://github.com/nicehcy2/WE-SAVE-BE)
+- **[Nior Near]** - SpringBoot, MySQL [(바로가기)](https://github.com/Nior-Near/BE)
+- **[또또가(리뷰어와 상점을 연결하는 중계 서비스)]** - SpringBoot, MySQL [(바로가기)](https://github.com/Ttottoga/BE)
 
-## Commit
+## 📝 Commit
 <p>
   <img height="180em" src="https://readmestats.999857.xyz/api?username=nicehcy2&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=nicehcy2&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-## Algorithm
+## 📘 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicehcy2)](https://solved.ac/nicehcy2)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nicehcy2&theme=dark)

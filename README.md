@@ -1,4 +1,4 @@
-## 허찬영(Chan-Young Heo)
+## 허찬영
 안녕하세요! 학부에서 소프트웨어를 전공했고, 스프링 부트 기반의 백엔드 지식을 공부하고 있는 서버 개발자입니다. <br/>
 
 🎓 Univ : Kwangwoon University<br>
@@ -22,8 +22,8 @@
 </div>
 
 ## 🚀 Projects
-- **[AI를 활용한 Road Damage 탐지 및 모니터링 시스템]** - SpringBoot, React, YOLO, PostgreSQL, AWS [(바로가기)](https://github.com/nicehcy2/Pothole-Detection-API-Server) [(바로가기)](https://github.com/nicehcy2/YOLOv8-Pothole-Detection-Server)
-- **[0끌: 메신저 기반 무지출 챌린지 어플]** - SpringBoot, RabbitMQ, Redis, Kafka, MYSQL, AWS [(바로가기)](https://github.com/nicehcy2/yeongkkuel-server) [(바로가기)](https://github.com/nicehcy2/Login-Websocket-STOPM)
+- **[AI를 활용한 Road Damage 탐지 및 모니터링 시스템]** - SpringBoot, React, YOLO, PostgreSQL, AWS [(백엔드서버)](https://github.com/nicehcy2/Pothole-Detection-API-Server) [(2차검증서버)](https://github.com/nicehcy2/YOLOv8-Pothole-Detection-Server)
+- **[0끌: 메신저 기반 무지출 챌린지 어플]** - SpringBoot, RabbitMQ, Redis, Kafka, MYSQL, AWS [(원본)](https://github.com/nicehcy2/yeongkkuel-server) [(성능 리팩토링)](https://github.com/nicehcy2/Login-Websocket-STOPM) [(MSA 구조)](https://github.com/nicehcy2/Chat-MSA-Server)
 - **[WE-SAVE]** - SpringBoot, MySQL [(바로가기)](https://github.com/nicehcy2/WE-SAVE-BE)
 - **[Nior Near]** - SpringBoot, MySQL [(바로가기)](https://github.com/Nior-Near/BE)
 - **[또또가(리뷰어와 상점을 연결하는 중계 서비스)]** - SpringBoot, MySQL [(바로가기)](https://github.com/Ttottoga/BE)

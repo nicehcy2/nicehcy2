@@ -1,4 +1,4 @@
-## 허찬영
+## 허찬영(Chan-Young Heo)
 안녕하세요! 학부에서 소프트웨어를 전공했고, 스프링 부트 기반의 백엔드 지식을 공부하고 있는 서버 개발자입니다. <br/>
 
 🎓 Univ : Kwangwoon University<br>

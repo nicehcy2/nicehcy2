@@ -37,3 +37,4 @@
 ## 📘 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicehcy2)](https://solved.ac/nicehcy2)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nicehcy2&theme=dark)
+<img width="351" height="172" alt="image" src="https://github.com/user-attachments/assets/cffaafd9-a848-4cfd-9dad-541803b57987" />
